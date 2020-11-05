@@ -1,7 +1,7 @@
   
 import { createElement as h, render } from 'https://unpkg.com/preact@latest?module';
+import { useEffect } from 'https://unpkg.com/preact@10.5.5/hooks/dist/hooks.module.js?module';
 import htm from 'https://unpkg.com/htm@latest?module';
-import { useTitle, } from 'https://unpkg.com/hooked-head@latest?module';
 
 window.html = htm.bind(h);
 
