@@ -2,12 +2,7 @@
 # yarn lockfile v1
 
 
-hooked-head@^0.4.1:
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/hooked-head/-/hooked-head-0.4.1.tgz#118411945e5a6b528a4eac05ede529d871d261b9"
-  integrity sha512-iUWETXGIsyrgspklBquQi3Yu92PapkrlK90qeOb4wYvzDdNPp/ZgjO6BLgs0C/iUuy54PxUwylimxGpNMxhWXA==
-
-preact@^10.5.5:
-  version "10.5.5"
-  resolved "https://registry.yarnpkg.com/preact/-/preact-10.5.5.tgz#c6c172ca751df27483350b8ab622abc12956e997"
-  integrity sha512-5ONLNH1SXMzzbQoExZX4TELemNt+TEDb622xXFNfZngjjM9qtrzseJt+EfiUu4TZ6EJ95X5sE1ES4yqHFSIdhg==
+servor@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/servor/-/servor-4.0.2.tgz#6d5e5c61fbb3d6f4bde72995dbe6745829395971"
+  integrity sha512-MlmQ5Ntv4jDYUN060x/KEmN7emvIqKMZ9OkM+nY8Bf2+KkyLmGsTqWLyAN2cZr5oESAcH00UanUyyrlS1LRjFw==

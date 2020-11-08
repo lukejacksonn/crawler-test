@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "git@github.com:JoviDeCroock/crawler-test.git",
   "author": "Jovi De Croock <decroockjovi@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "servor --browse --reload --editor"
+  },
+  "devDependencies": {
+    "servor": "^4.0.2"
+  }
 }
